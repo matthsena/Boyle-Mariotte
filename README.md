@@ -13,14 +13,18 @@ a relação de Boyle-Mariotte. A aplicação de um modelo ideal possibilita aind
 do trabalho realizado sobre o gás. Verificar experimentalmente a validade da Lei de Boyle-Mariotte para
 um modelo de gás ideal e determinar a constante universal dos gases.
 
-Referˆencias
+Referências:
+
 [1] H. Moyses Nussenzveig, Curso de Fisica Basica - 2, Editora Edgard Bluecher (1996)
+
 [2] R.A Serway, J.W. Jewett Jr., Principios de Fisica - vol. 2, Cengage Learning (2004)
+
 [3] A. A. Campos, E. S. Alves, N. L. Speziali, Fisica experimental basica na Universidade, Ed. UFMG
 (2008).
-[4] Otaviano A. M. Helene e Vito R. Vanin, Tratamento Estat´ıstico de Dados em F´ısica Experimental -
-Editora Edgard Bluecher, 2a
-edi¸c˜ao (1991).
-[5] Aureo S. de Oliveira, FUNDAMENTOS DE METEOROLOGIA E CLIMATOLOGIA, Cap´ıtulo
+
+[4] Otaviano A. M. Helene e Vito R. Vanin, Tratamento Estatístico de Dados em Física Experimental -
+Editora Edgard Bluecher, 2a edição (1991).
+
+[5] Aureo S. de Oliveira, FUNDAMENTOS DE METEOROLOGIA E CLIMATOLOGIA, Capítulo
 8 – NEAS/UFRB - https://www.ufrb.edu.br/neas/documento/category/8-cca-035-meteorologia-eclimatologia-agricola?download=44:cap-8-pratm,
-´ultimo acesso em 03/02/2017
+último acesso em 03/02/2017
