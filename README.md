@@ -4,6 +4,7 @@ Um script para determinar σPtot·V de um experimento no laboratório de física
 σPtot·V pode ser obtido através das seguintes expressõe:
 
 totalP = (σx/x)² + (σy/y)²
+
 σPtot·V = √ w² * totalP
 
 O objetivo do experimento é relacionar as propriedades macroscópicas de um gás (ar atmosférico) e
