@@ -11,7 +11,9 @@ totalP = (σx/x)² + (σy/y)²
 
 ### Unidades de medida: 
 Pman e σPman = kgf/cm²
+
 h e σh = cm
+
 v e σv = ml
 
 ### Objetivo: 
