@@ -7,7 +7,7 @@ Após realizar um experimento com o objetivo de relacionar as propriedades macro
 *Obs: esse script calcula apenas σPtot·V pois σP e σv/σh já são incertezas atribuida aos instrumentos de medição*
 
 
-###### σPtot·V pode ser obtido através das seguintes expressõe:
+###### σPtot·V pode ser obtido através das seguintes expressões:
 
 totalP = (σx/x)² + (σy/y)²
 
@@ -19,3 +19,14 @@ Pman e σPman = kgf/cm²
 h e σh = cm
 
 v e σv = ml
+
+### Forma de usar: 
+###### 1. 
+Certifique-se que a máquina onde irá utilizar tem a versão 3.x do Python instalada:
+
+> Abra o terminal ou CMD e digite: 'python3 -V' *Obs: ignore as aspas*
+> Link para download do python: https://www.python.org/
+(Recomendo a utilização de Python3 pois o Python2 terá suporte apenas até 2020)
+
+###### 2. 
+Com o python instalado você pode abrir o aquivo 'incertezaPtotV.py' com o IDLE e execultar ou entrar no diretório que esse arquivo está contido via terminal e digitar no mesmo 'python3 incertezaPtotV.py' e pronto, só inserir os valores requisitados
