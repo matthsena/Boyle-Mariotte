@@ -1,5 +1,5 @@
 # Lei-dos-Gases-Boyle-Mariotte-
-Um script para determinar σPtot·V de um experimento no laboratório de física
+Um script para determinar σPtot·V de um experimento no laboratório de física.
 
 σPtot·V pode ser obtido através das seguintes expressõe:
 
