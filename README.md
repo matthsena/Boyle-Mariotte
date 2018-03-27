@@ -1,14 +1,16 @@
 # Lei-dos-Gases-Boyle-Mariotte-
-Um script para determinar σPtot·V de um experimento no laboratório de física.
+## Um script para determinar σPtot·V de um experimento no laboratório de física.
 
 σPtot·V pode ser obtido através das seguintes expressõe:
 
 totalP = (σx/x)² + (σy/y)²
 
 ### σPtot·V = √ w² * totalP
-
 *OBS: w = Ptot · V*
 
+
+
+### Objetivo: 
 
 O objetivo do experimento é relacionar as propriedades macroscópicas de um gás (ar atmosférico) e
 ajustar-las graficamente, com finalidade de obter uma aproximação da lei dos gases ideais, mais precisamente
@@ -16,7 +18,7 @@ a relação de Boyle-Mariotte. A aplicação de um modelo ideal possibilita aind
 do trabalho realizado sobre o gás. Verificar experimentalmente a validade da Lei de Boyle-Mariotte para
 um modelo de gás ideal e determinar a constante universal dos gases.
 
-Referências:
+### Referências:
 
 [1] H. Moyses Nussenzveig, Curso de Fisica Basica - 2, Editora Edgard Bluecher (1996)
 
