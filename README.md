@@ -1,8 +1,8 @@
-# Lei-dos-Gases-Boyle-Mariotte-
+# Lei dos Gases Boyle Mariotte
 ### Um script para determinar σPtot·V
 
 ### Motivação: 
-Após realizar um experimento com o objetivo de relacionar as propriedades macroscópicas de um gás (ar atmosférico) e ajustar-las graficamente, com finalidade de obter uma aproximação da lei dos gases ideais, mais precisamente a relação de Boyle-Mariotte, constatei há um gasto de tempo significativo quando é necessário calcular as incertezas dos dados obtidos no laboratório, quando não é dada pelo instrumento de medição, pois sempre é necessário digitar a expressão por completo na calculadora. Pensando nisso desenvolvi essa solução com foco na produtividade ao realizar esse tipo de cálculo.
+Após realizar um experimento com o objetivo de relacionar as propriedades macroscópicas de um gás (ar atmosférico) e ajustar-las graficamente, com finalidade de obter uma aproximação da lei dos gases ideais, mais precisamente a relação de Boyle-Mariotte, constatei que há um gasto de tempo significativo quando é necessário calcular as incertezas dos dados obtidos no laboratório, quando não é dada pelo instrumento de medição. Pensando nisso desenvolvi essa solução com foco na produtividade ao realizar esse tipo de cálculo.
 
 >*Obs: esse script calcula apenas σPtot·V pois σP e σv/σh já são incertezas atribuidas aos instrumentos de medição*
 
